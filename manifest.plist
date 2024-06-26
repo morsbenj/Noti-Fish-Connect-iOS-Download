@@ -30,8 +30,6 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.example.nfcm_03</string>
-				<key>bundle-version</key>
-				<string>4.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
