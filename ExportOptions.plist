@@ -2,23 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>destination</key>
-	<string>upload</string>
-	<key>generateAppStoreInformation</key>
+	<key>compileBitcode</key>
 	<false/>
-	<key>manageAppVersionAndBuildNumber</key>
-	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/raw/main/nfcm_03.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/main/new_at_logo_s57.png?raw=true</string>
+		<key>fullSizeImageURL</key>
+		<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/main/new_at_logo_s512.png?raw=true</string>
+	</dict>
 	<key>method</key>
-	<string>app-store-connect</string>
+	<string>debugging</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
 	<string>YRN657G6KU</string>
-	<key>testFlightInternalTestingOnly</key>
-	<false/>
-	<key>uploadSymbols</key>
-	<true/>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
 </dict>
 </plist>
