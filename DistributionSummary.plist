@@ -9,6 +9,8 @@
 			<array>
 				<string>arm64</string>
 			</array>
+			<key>bitcode</key>
+			<false/>
 			<key>buildNumber</key>
 			<string>0.1.0</string>
 			<key>certificate</key>
@@ -27,6 +29,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1.0</string>
 					<key>certificate</key>
@@ -40,6 +44,8 @@
 					</dict>
 					<key>name</key>
 					<string>App.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -55,6 +61,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1.0</string>
 					<key>certificate</key>
@@ -68,6 +76,8 @@
 					</dict>
 					<key>name</key>
 					<string>Flutter.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -83,6 +93,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -96,6 +108,8 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_blue_plus.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -111,6 +125,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -124,6 +140,8 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_local_notifications.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -139,6 +157,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -152,6 +172,8 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_timezone.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -167,6 +189,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -180,6 +204,8 @@
 					</dict>
 					<key>name</key>
 					<string>geolocator_apple.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -195,6 +221,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -208,6 +236,8 @@
 					</dict>
 					<key>name</key>
 					<string>integration_test.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -223,6 +253,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -236,6 +268,8 @@
 					</dict>
 					<key>name</key>
 					<string>location.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -251,6 +285,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -264,6 +300,8 @@
 					</dict>
 					<key>name</key>
 					<string>path_provider_foundation.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -279,6 +317,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -292,6 +332,8 @@
 					</dict>
 					<key>name</key>
 					<string>sensors.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -307,6 +349,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>bitcode</key>
+					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
@@ -320,6 +364,8 @@
 					</dict>
 					<key>name</key>
 					<string>shared_preferences_foundation.framework</string>
+					<key>symbols</key>
+					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -335,6 +381,8 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>YRN657G6KU.com.example.nfcm03</string>
+				<key>beta-reports-active</key>
+				<true/>
 				<key>com.apple.developer.team-identifier</key>
 				<string>YRN657G6KU</string>
 				<key>get-task-allow</key>
@@ -345,12 +393,14 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>1b0f8f11-2a52-4468-b592-e56032e44e90</string>
+				<string>e80090ab-4ba9-4f11-ac0d-054f903ef6c1</string>
 				<key>dateExpires</key>
 				<string>6/26/25</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.example.nfcm03</string>
+				<string>iOS Team Store Provisioning Profile: com.example.nfcm03</string>
 			</dict>
+			<key>symbols</key>
+			<true/>
 			<key>team</key>
 			<dict>
 				<key>id</key>
