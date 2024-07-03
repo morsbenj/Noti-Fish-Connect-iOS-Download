@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/much_older/new_at_logo_s57.png?raw=true</string>
+					<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/main/new_at_logo_s57.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/much_older/new_at_logo_s512.png?raw=true</string>
+					<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/main/new_at_logo_s512.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
