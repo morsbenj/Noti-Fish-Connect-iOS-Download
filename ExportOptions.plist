@@ -2,31 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>compileBitcode</key>
-	<false/>
 	<key>destination</key>
 	<string>export</string>
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/raw/main/nfcm_03.ipa</string>
+		<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/raw/refs/heads/main/nfcm_03.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/main/new_at_logo_s57.png?raw=true
-</string>
+		<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/main/new_at_logo_s57.png?raw=true</string>
 		<key>fullSizeImageURL</key>
 		<string>https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/blob/main/new_at_logo_s512.png?raw=true</string>
 	</dict>
 	<key>method</key>
-	<string>release-testing</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>com.example.nfcm03</key>
-		<string>morse_ios_adhoc_provProf</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>F3EB93852EAA90D8781FBD800966398BA931EB39</string>
+	<string>ad-hoc</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
+	<key>outputName</key>
+	<string>nfcm_03</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
