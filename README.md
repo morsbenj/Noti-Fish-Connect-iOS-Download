@@ -3,7 +3,7 @@
 Noti-Fish Connect App install for iOS
 (must have developer mode turned on, see [https://noti.fish](https://104.198.247.136/?page_id=212) for how to try and turn it on)
 
-rather than try and install the package using github online, visit this page with you apple smartphone
+rather than try and install the package using github online, visit this page with your apple smartphone
 and click this link:
 itms-services://?action=download-manifest&url=https://github.com/morsbenj/Noti-Fish-Connect-iOS-Download/raw/main/manifest.plist
 
